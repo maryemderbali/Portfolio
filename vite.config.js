@@ -4,7 +4,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: process.env.NODE_ENV === "production" ? "/Portfolio/" : "/",
+  base: "/Portfolio/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
