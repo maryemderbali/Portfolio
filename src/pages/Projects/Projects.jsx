@@ -28,7 +28,7 @@ const projects = [
     images: [pfe, home, proj, bill],
     color: "#5B8FF9",
     technologies: ["Spring Boot", "React", "PostgreSQL", "Keycloak", "Flowable"],
-    githubLink: "https://github.com/maryemderbali/library-app",
+    githubLink: "https://gitlab.com/derbalimaryem-group/library-management",
   },
   {
     title: "A sleek portfolio built with React and Tailwind CSS ",
@@ -37,7 +37,7 @@ const projects = [
     images: [p1, p2],
     color: "#ff89f9ff",
     technologies: ["React", "Tailwind CSS", "Vite"],
-    githubLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/maryemderbali/Portfolio",
   },
   {
     title: "CoConsult - Consultation Platform",
@@ -46,7 +46,7 @@ const projects = [
     images: [co1, co2, co3, co4],
     color: "#7F56D9",
     technologies: ["Angular", "Spring Boot", "MySQL"],
-    githubLink: "https://github.com/yourusername/coconsult",
+    githubLink: "https://github.com/maryemderbali/COCONSULT-FRONT",
   },
   {
     title: "🎮 Tic Tac Toe Game (HTML / CSS / JS)",
@@ -55,8 +55,8 @@ const projects = [
     images: [ttt1, ttt2],
     color: "#FFB84C",
     technologies: ["HTML", "CSS", "JavaScript"],
-    githubLink: "https://github.com/maryemderbali/tic-tac-toe", 
-  },
+    githubLink: "https://github.com/maryemderbali/TicTacToe", 
+  },pp
 ];
 
 export default function Projects() {
