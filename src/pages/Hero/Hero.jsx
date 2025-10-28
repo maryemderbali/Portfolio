@@ -51,7 +51,7 @@ export default function Hero() {
   const [code] = useState(`
 const profile = {
     name: 'Maryem Derbali',
-    title: 'Full-Stack Developer | Full-Stack Developer | AI & DevOps Enthusiast',
+    title: 'Software Engineer | Full-Stack Developer | AI & DevOps Enthusiast',
     skills: [
         'JAVA', 'Springboot', 'React', 'Angular',
         'JavaScript', 'TypeScript', 'PostgreSQL', 'Docker', 'Flowable BPM',
