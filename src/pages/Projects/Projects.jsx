@@ -56,7 +56,7 @@ const projects = [
     color: "#FFB84C",
     technologies: ["HTML", "CSS", "JavaScript"],
     githubLink: "https://github.com/maryemderbali/TicTacToe", 
-  },pp
+  },
 ];
 
 export default function Projects() {
