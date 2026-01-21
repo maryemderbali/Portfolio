@@ -64,7 +64,7 @@ const ExperienceSection = () => {
     {
       icon: Layers,
       title: "Software Developer ",
-      company: "Remote",
+      company: "Ulysse Media, Tunis",
       period: "Sep 2023 - January 2025",
       description:
         "Designed and developed custom web applications for SMEs and startups. Managed full project lifecycle, implemented notifications, online payments, and third-party API integrations.",
