@@ -65,7 +65,7 @@ const ExperienceSection = () => {
       icon: Layers,
       title: "Software Developer ",
       company: "Remote",
-      period: "Sep 2024 - Present",
+      period: "Sep 2023 - January 2025",
       description:
         "Designed and developed custom web applications for SMEs and startups. Managed full project lifecycle, implemented notifications, online payments, and third-party API integrations.",
     },
@@ -73,7 +73,7 @@ const ExperienceSection = () => {
       icon: Code2,
       title: "Full Stack Development Intern",
       company: "Ulysse Media, Tunis",
-      period: "Jun 2024 - Sep 2024",
+      period: "Jun 2023 - Sep 2023",
       description:
         "Developed SaaS microservices solution. Implemented JWT authentication in Spring Security. Containerized services with Docker.",
     },
