@@ -63,7 +63,7 @@ const ExperienceSection = () => {
     },
     {
       icon: Layers,
-      title: "Full-Stack Developer | Freelance",
+      title: "Software Developer ",
       company: "Remote",
       period: "Sep 2024 - Present",
       description:
